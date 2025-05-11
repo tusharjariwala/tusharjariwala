@@ -58,5 +58,3 @@
 </p>
 
 ---
-
-### 🔥 Let's Code Something Awesome Together!
